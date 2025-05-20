@@ -1,0 +1,23 @@
+How Werehouse working : 
+
+*  It is a subject-oriented , integrated , time-variant , and non-volatile collection of data in support of management's decision-making process .
+
+    - Subject oriented : focus on business area (sales , customers , finance)
+    - Integrated : cause it goes and integrates multiple source systems . (for multiple sources)
+    - Time-variant : you can keep historical data inside the data werehouse 
+    - Non-volatile : oance the data enter the data werehouse , it is not deleted or modified .
+
+System -> Data Analyst (collect and extract the data - transforming that in some miningful) -> Share reports (XL's , PowerPoints , etc..) => It takes too long (Weeks , Months)
+
+BigData - when it becomes impossible to collect the data by hand 
+
+Now you can start to use ETL (Extract , Transform and Load)  - process to extract the data from the sources and apply multiple transformations , collecting the data in Werehouse (already with all type of reports)
+
+Developers : 
+
+Data Engineer - Builds the ETL component and the data Werehouse
+Data Analyst - Consuming the data werehouse , building different data models and reports 
+
+
+
+
