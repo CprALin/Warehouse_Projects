@@ -32,6 +32,8 @@ Transformation techniques : -> Data Integration , Data Enrichment , Data Normali
                             -> Data Cleansing : Removes duplicates , Hnadling Invaid Values , Missing data , Unwanted space Data Type Casting
 Load techniques : -> Processing type - Batch (in one step to load everything) , Stream (live changes - real time data werehouse)
                   -> Load methods : * Full load : Drop , Create , Insert
-                                    * 
+                                    * Incremental : Upsert , Append , Merge
+                  -> Slowly Changing Dimensions Historization SCD 2 , No Historization SCD 0, Overwrite SCD 1
+
 
 
