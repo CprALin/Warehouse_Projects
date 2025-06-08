@@ -15,6 +15,8 @@ The project uses the **Medallion Architecture**, divided into three layers:
 - **Silver Layer:** Cleaned, standardized, and normalized data ready for analysis.
 - **Gold Layer:** Business-friendly analytical data models using a star schema.
 
+![LearnDataWarehouse drawio](https://github.com/user-attachments/assets/d92469fb-6df8-426e-ac64-9d2f007bced2)
+
 ---
 
 ## 📖 Project Overview
